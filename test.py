@@ -1,2 +1,0 @@
-# kupriypa
-print("First branch")
